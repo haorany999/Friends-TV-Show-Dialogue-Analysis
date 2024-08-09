@@ -37,6 +37,10 @@ To utilize the `friends_proposal.Rmd` effectively, please follow these steps:
 
 The team members contributed to various aspects of the project, including data collection, analysis, and writing up the findings.
 
+## Contact
+
+For any queries regarding this project, please contact our GitHub repository maintainer at: - GitHub Repository: <https://github.com/educated-fool/friends>
+<https://github.com/haorany999>
 
 ## Acknowledgements
 
