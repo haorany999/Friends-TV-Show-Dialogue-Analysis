@@ -39,8 +39,10 @@ The team members contributed to various aspects of the project, including data c
 
 ## Contact
 
-For any queries regarding this project, please contact our GitHub repository maintainer at: - GitHub Repository: <https://github.com/educated-fool/friends>
-<https://github.com/haorany999>
+For any queries regarding this project, please contact our GitHub repository maintainer at: 
+- GitHub Repository:
+- <https://github.com/educated-fool/friends>
+- <https://github.com/haorany999>
 
 ## Acknowledgements
 
