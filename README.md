@@ -52,3 +52,6 @@ Your contributions and questions can help enrich this exploration, and we welcom
 Our exploration would not have been possible without the rich dialogue and timeless humor provided by "Friends." We extend our sincere thanks to the original creators and writers, whose work has transcended time to become a subject of academic and analytical interest. Additionally, a special thanks to the open-source tools and community for empowering us to bring this project to fruition.
 
 ![Joey doesn't share food](https://media.giphy.com/media/xUOxf9EI2iTP9tl9Yc/giphy.gif)
+
+## License
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
